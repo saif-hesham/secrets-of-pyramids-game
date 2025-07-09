@@ -1,7 +1,7 @@
 {
-    "name": "template-vite-ts",
-    "description": "A Phaser 3 TypeScript template using Vite.",
-    "version": "1.4.0",
+    "name": "super-pharaoh-game",
+    "description": "Super Pharaoh - An Egyptian-themed platformer adventure game built with Phaser 3, featuring a pharaoh collecting magical pyramids while avoiding mummies across 3 challenging levels.",
+    "version": "1.0.0",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/phaserjs/template-vite-ts.git"
